@@ -1,0 +1,8 @@
+{
+  "name": "Remix 내 몸속에 숨겨진 규칙을 찾아라",
+  "description": "영재수업 탐구 인터랙티브 수업 슬라이드 - 신체 부위의 길이와 키 사이의 규칙 탐구",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
